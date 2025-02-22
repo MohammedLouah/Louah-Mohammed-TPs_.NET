@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Login": "admin",
+    "Password": "admin",
+    "Role": 0,
+    "Nom": "Admin",
+    "Prenom": "System",
+    "DateCreation": "2025-02-22T13:24:05.6647367+01:00"
+  },
+  {
+    "Id": 2,
+    "Login": "client",
+    "Password": "client",
+    "Role": 1,
+    "Nom": "Client",
+    "Prenom": "Test",
+    "DateCreation": "2025-02-22T13:24:05.6647726+01:00"
+  }
+]
