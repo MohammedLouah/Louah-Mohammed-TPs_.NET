@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP11\\TP11.csproj": {}
+    "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP11\\TP11.csproj": {}
   },
   "projects": {
-    "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP11\\TP11.csproj": {
+    "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP11\\TP11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP11\\TP11.csproj",
+        "projectUniqueName": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP11\\TP11.csproj",
         "projectName": "TP11",
-        "projectPath": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP11\\TP11.csproj",
+        "projectPath": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP11\\TP11.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP11\\obj\\",
+        "outputPath": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

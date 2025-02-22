@@ -1,0 +1,15 @@
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\bin\Debug\net8.0\TP21.exe
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\bin\Debug\net8.0\TP21.deps.json
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\bin\Debug\net8.0\TP21.runtimeconfig.json
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\bin\Debug\net8.0\TP21.dll
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\bin\Debug\net8.0\TP21.pdb
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.AssemblyInfoInputs.cache
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.AssemblyInfo.cs
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.csproj.CoreCompileInputs.cache
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.sourcelink.json
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.dll
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\refint\TP21.dll
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.pdb
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\TP21.genruntimeconfig.cache
+D:\Rider\RiderProjects\TPs\LOUAH_Mohammed\TP21\obj\Debug\net8.0\ref\TP21.dll

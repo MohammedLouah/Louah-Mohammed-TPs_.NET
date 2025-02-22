@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP12\\TP12.csproj",
+      "projectUniqueName": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP12\\TP12.csproj",
       "projectName": "TP12",
-      "projectPath": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP12\\TP12.csproj",
+      "projectPath": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP12\\TP12.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Rider\\RiderProjects\\LOUAH_Mohammed\\TP12\\obj\\",
+      "outputPath": "D:\\Rider\\RiderProjects\\TPs\\LOUAH_Mohammed\\TP12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
